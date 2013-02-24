@@ -1,11 +1,11 @@
+body {
+	background: url("../img/seamlesstexture13_1200.jpg") repeat scroll 0 0 transparent;
+}
+
 .phone {
 	background: url("../img/iphone-portrait.png") no-repeat scroll -300px 0 transparent;
 	height:768px;
 
-}
-
-body {
-	background: url("../img/seamlesstexture13_1200.jpg") repeat scroll 0 0 transparent;
 }
 
 #slideshow {
