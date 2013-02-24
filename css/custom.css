@@ -14,7 +14,8 @@ body {
 }
 
 #slideshow-container {
-	background: url("../img/splashpage.jpg") no-repeat scroll 0 0 transparent;
+	background: url("../img/splashpage.jpg") no-repeat scroll 0 -50px transparent;
+	background-size: 320px 568px;
 	margin-top: 141px;
 	margin-left: 51px;
 }
