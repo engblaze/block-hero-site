@@ -1,16 +1,11 @@
-<<<<<<< HEAD
-=======
+
 body {
 	background: url("../img/seamlesstexture13_1200.jpg") repeat scroll 0 0 transparent;
 }
 
->>>>>>> master
 .phone {
 	background: url("../img/iphone-portrait.png") no-repeat scroll -300px 0 transparent;
 	height:768px;
-
-<<<<<<< HEAD
-=======
 }
 
 #slideshow {
@@ -23,5 +18,4 @@ body {
 	background-size: 320px 568px;
 	margin-top: 141px;
 	margin-left: 51px;
->>>>>>> master
 }
