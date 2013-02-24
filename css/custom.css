@@ -3,3 +3,18 @@
 	height:768px;
 
 }
+
+body {
+	background: url("../img/seamlesstexture13_1200.jpg") repeat scroll 0 0 transparent;
+}
+
+#slideshow {
+	height: 480px;
+	width: 320px;
+}
+
+#slideshow-container {
+	background: url("../img/splashpage.jpg") no-repeat scroll 0 0 transparent;
+	margin-top: 141px;
+	margin-left: 51px;
+}
